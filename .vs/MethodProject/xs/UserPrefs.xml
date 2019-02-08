@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{B8498024-B1D1-16F8-09F3-86D40B0F52C3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/LINQScript.cs">
+    <Files>
+      <File FileName="Assets/MethodScript.cs" Line="55" Column="20" />
+      <File FileName="Assets/ReferenceMethodScript.cs" Line="7" Column="26" />
+      <File FileName="Assets/ArrayScript.cs" Line="21" Column="8" />
+      <File FileName="Assets/RensoArrayScript.cs" Line="52" Column="28" />
+      <File FileName="Assets/LINQScript.cs" Line="9" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
